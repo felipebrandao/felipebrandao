@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Felipe</h1>
-<h3 align="center">Um desenvolvedor backend apaixonado por tecnologia</h3>
+<h3 align="center">Um desenvolvedor backend apaixonado por tecnologia!</h3>
 
 🚧 Estou construindo minha página no git.
 
