@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, me chamo Felipe</h1>
 <h3 align="center">Um desenvolvedor backend apaixonado por tecnologia!</h3>
 
-🚧 Estou construindo minha página no git.
-
 💬 Você pode falar comigo pelo [Linkedin](https://linkedin.com/in/felipeb31)
 
 ### 🖥️ Linguagens e Ferramentas: 
